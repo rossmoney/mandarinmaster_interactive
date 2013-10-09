@@ -1,0 +1,65 @@
+{
+    "level_header" : {
+        "header_text" : "Practice saying these phrases with your partner."
+    },
+    "vocab_block": {
+        "block_pronoun": [
+            "nǐ hǎo",
+            "hāi"
+        ],
+        "block_chinese": [
+            "你好。",
+            "嗨"
+        ],
+        "block_translation": [
+            "Hello.",
+            "Hi!"
+        ],
+        "block_sound": [
+            "hello",
+            "hi"
+        ],
+        "block_pos": [
+            {
+                "x": 100,
+                "y": 180
+            },
+            {
+                "x": 550,
+                "y": 180
+            }
+        ]
+    },
+    "speech_bubble": {
+        "bubble_text": [
+            "Chinese people often borrow words from English."
+        ],
+        "bubble_type": [
+            "speech"
+        ],
+        "block_pos": [
+            {
+                "x": 430,
+                "y": 0,
+                "fs": 20
+            }
+        ]
+    },
+    "image": {
+        "image_file": [
+            "images/woman.png"
+        ],
+        "block_pos": [
+            {
+                "x": 320,
+                "y": 130
+            }
+        ],
+        "image_size": [
+            {
+                "w": 150,
+                "h": "auto"
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+.multiple_choice {
+	position: absolute;
+	font-size: 30px;
+}
+
+.choice {
+	border: 2px orange solid;
+	padding: 15px;
+	float: left;
+	margin-left: 80px;
+}
+
+.numberchoice, .mc_pronounciation {
+	padding: 8px;
+}

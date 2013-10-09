@@ -1,0 +1,65 @@
+{
+    "level_header" : {
+        "header_text" : "What’s your name?"
+    },
+    "vocab_block": {
+        "block_pronoun": [
+            "nǐ jiào shén me míng zì?",
+            "wǒ jiào"
+        ],
+        "block_chinese": [
+            "你叫  什  么  名 字？",
+            "我  叫"
+        ],
+        "block_translation": [
+            "What is your name?",
+            "My name is…"
+        ],
+        "block_sound": [
+            "name1",
+            "name2"
+        ],
+        "block_pos": [
+            {
+                "x": 30,
+                "y": 40
+            },
+            {
+                "x": 30,
+                "y": 280
+            }
+        ]
+    },
+    "speech_bubble": {
+        "bubble_text": [
+            "我  叫 Meimei!"
+        ],
+        "bubble_type": [
+            "speech"
+        ],
+        "block_pos": [
+            {
+                "x": 600,
+                "y": 40,
+                "fs": 20
+            }
+        ]
+    },
+    "image": {
+        "image_file": [
+            "images/woman.png"
+        ],
+        "block_pos": [
+            {
+                "x": 500,
+                "y": 200
+            }
+        ],
+        "image_size": [
+            {
+                "w": 150,
+                "h": "auto"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "level_header" : {
+        "header_text" : "Choose the right sound for ‘你’- can you pick out the differences?"
+    },
+    "sound_block": {
+        "file": [
+            "ni_tone1",
+            "ni_tone2",
+            "ni_tone3",
+            "ni_tone4"
+        ],
+        "block_pos": [
+            {
+                "x": 150,
+                "y": 200
+            },
+            {
+                "x": 300,
+                "y": 200
+            },
+            {
+                "x": 450,
+                "y": 200
+            },
+            {
+                "x": 600,
+                "y": 200
+            }
+        ]
+    },
+    "vocab_block": {
+        "block_pronoun": [
+            "nǐ"
+        ],
+        "block_chinese": [
+            "你"
+        ],
+        "block_pos": [
+            {
+                "x": 370,
+                "y": 80
+            }
+        ],
+        "block_border": "2px purple solid"
+    },
+    "multiple_choice": {
+        "answer_num": 4,
+        "block_pronoun": [
+            "nī",
+            "ní",
+            "nǐ",
+            "nì"
+        ],
+        "block_pos": {
+            "x": 60,
+            "y": 300
+        },
+        "correct_answer": 3
+    }
+}

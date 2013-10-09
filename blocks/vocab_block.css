@@ -1,0 +1,10 @@
+.pronounciation, .translation {
+	font-size: 30px;
+}
+ .chinese  {
+	font-size: 40px;
+}
+
+.vocab_block {
+	position: absolute;
+}

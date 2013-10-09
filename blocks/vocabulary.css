@@ -1,0 +1,13 @@
+.vocab_header {
+	border: 2px solid #FFC000;
+	padding: 10px;
+	width: 400px;
+	font-size: 40px;
+	margin: 10px;
+	text-align: center;
+}
+.vocab_table {
+	font-size: 34px;
+	margin: 8px;
+	margin-top: 30px;
+}
